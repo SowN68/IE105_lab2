@@ -58,7 +58,7 @@ global $password;
     </nav>
 
     <form method="POST" class="form-signin">
-      <img class="mb-4" src="n-logo.png" alt="logo" >
+      <img class="mb-4" src="n-logo.png" alt="logo"  style="width: 300px; height: 300px;">
       <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
       <label for="inputUsername" class="sr-only">Username</label>
       <input type="text" id="inputUsername" class="form-control" placeholder="Username" name="username" required autofocus>
